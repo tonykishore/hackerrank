@@ -1,22 +1,4 @@
-<p align="center">
-<a  href="https://www.facebook.com/groups/codingip">
-       <img align="left" height=85 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
-   </a>
-   <a align="center" href="https://www.hackerrank.com/Kanahaiya">
-       <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
-   </a>
-   <a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">
-       <img align="right" height=85 src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
-   </a>
- <p/>
-This repository contains <b>efficient hackerrank solutions</b> for most of the <b>hackerrank challenges</b> including <b><a href="https://www.youtube.com/c/JavaAidTutorials?sub_confirmation=1">video tutorials</b></a>. If you are looking for anyone of these things -
 
-hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 days of code solutions | hackerrank algorithms solutions | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in java | hackerrank algorithm solution in java | hackerrank challenges solutions | hackerrank practices solutions | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in java | problem solving | coding interview | coding | programming | JAVAAID | Kanahaiya Gupta 
-
-then you are at the right place. :)
-
-<br/>
-<br/>
 
 * [30 DAYS OF CODE](#30-days-of-code)
 * [JAVA](#java)
